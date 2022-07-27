@@ -19,13 +19,18 @@
 
 ## ✔️ Funcionamento
 
-Utilize o Endpoint para consumir e verificar os dados da API
+Insira em seu navegador o Endpoint abaixo para consumir e verificar os dados da API
 
 `Endpoint:`https://alura-linguagens-api-lucas-nog.herokuapp.com/linguagens 
 
 **EXEMPLO:**
-[IMAGEM]
 
 
-Uttilizado o PostMan
-[IMAGEM]
+
+<img src="https://user-images.githubusercontent.com/94400696/181144366-d52c8f47-6b75-40c2-bac6-70f56c0f997a.png" height="400px" width="800px">
+
+
+**UTILIZANDO O POSTMAN**
+
+
+<img src="https://user-images.githubusercontent.com/94400696/181144819-d6b51be5-c546-466b-b930-4422dfb0487f.png" height="400px" width="800px">
