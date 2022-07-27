@@ -19,9 +19,8 @@
 
 ## ✔️ Funcionamento
 
-Insira em seu navegador o Endpoint abaixo para consumir e verificar os dados da API
+Utilizando o Endpoint para consumir e verificar os dados da API
 
-`Endpoint:`https://alura-linguagens-api-lucas-nog.herokuapp.com/linguagens 
 
 **EXEMPLO:**
 
